@@ -2,8 +2,8 @@ OpEn: Optimal Enzyme
 ==========================================
 This repository contains the workflow to framework to explore the catalytically optimal modes of operations of enzymatic reactions.
 
-More information can be found in the
-`Preprint <https://www.biorxiv.org/content/10.1101/2022.04.12.488028v1.full>`_ on bioRxiv
+More information can be found in the 
+`Article <https://www.nature.com/articles/s41467-023-38159-4>`_ on Nature Comm.
 
 
 The package is developed using python 3.6 and run in Docker (20.10.6) containers.
